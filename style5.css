@@ -1,0 +1,25 @@
+/* type Descendant selector */
+div p {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}   
+
+/* class Descendant selector */
+
+.container .text {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}
+
+/* type and class decendent selector */
+
+div .text {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}
